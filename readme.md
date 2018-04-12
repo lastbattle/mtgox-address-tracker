@@ -3,6 +3,8 @@
 Track the address of mtgox & Bitmain in real-time and receive notifications via Telegram!
 Written in Microsoft .NET core. 
 
+![alt text](https://i.imgur.com/VEjtdqm.png)
+
 # Services
 - Blockchain.info websocket API
 
@@ -104,9 +106,9 @@ Check out Constants\APIKeyConstants.cs
 
 Please see: https://core.telegram.org/bots on details to create a Telegram bot.
 
-A telegram super group ID may be obtained by its link.
+A telegram super group ID may be obtained by its link via Telegram web https://web.telegram.org/
 For example:
-A group URL of 'https://web.telegram.org/#/im?p=s1009909164_16286789017572143124' translates into
+A group URL of web.telegram .org/#/im?p=s**1009909164**_16286789017572143124' translates into the following ID
 ```      
 -1001009909164 
 ```      
